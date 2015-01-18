@@ -2,11 +2,12 @@
 Simple template helper for codeigniter
 
 ## Funções do helper
-init_template : inicializa template
-set_parameter : seta parâmetro para ser usado na view;
-add_js : adiciona arquivo js na pagina
-add_css : adiciona arquivo css na pagina
-load_page : carrega view
+
+* init_template : inicializa template;
+* set_parameter : seta parâmetro para ser usado na view;
+* add_js : adiciona arquivo js na pagina;
+* add_css : adiciona arquivo css na pagina;
+* load_page : carrega view;
 
 ##	Instalação:
 
